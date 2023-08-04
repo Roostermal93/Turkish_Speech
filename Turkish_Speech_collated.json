@@ -1,0 +1,42 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "72748fad-3f88-45ac-8564-13eeac7127e9",
+            "collectionId": "Turkish",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Turkish/Turkish_Speech/72748fad-3f88-45ac-8564-13eeac7127e9/72748fad-3f88-45ac-8564-13eeac7127e9_tr_Female.mp4"
+        },
+        {
+            "id": "a345a81a-030c-4877-9b05-5effd25c680e",
+            "collectionId": "Turkish",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Turkish/Turkish_Speech/a345a81a-030c-4877-9b05-5effd25c680e/a345a81a-030c-4877-9b05-5effd25c680e_tr_Female.mp4"
+        },
+        {
+            "id": "407bb9f9-1784-449f-8f8c-d31c2c7ac806",
+            "collectionId": "Turkish",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Turkish/Turkish_Speech/407bb9f9-1784-449f-8f8c-d31c2c7ac806/407bb9f9-1784-449f-8f8c-d31c2c7ac806_tr_Female.mp4"
+        },
+        {
+            "id": "d1122ec6-3695-45ff-9973-662601acd684",
+            "collectionId": "Turkish",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Turkish/Turkish_Speech/d1122ec6-3695-45ff-9973-662601acd684/d1122ec6-3695-45ff-9973-662601acd684_tr_Female.mp4"
+        },
+        {
+            "id": "f21873d0-9d4f-40a0-98f7-58bbb1e0f611",
+            "collectionId": "Turkish",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Turkish/Turkish_Speech/f21873d0-9d4f-40a0-98f7-58bbb1e0f611/f21873d0-9d4f-40a0-98f7-58bbb1e0f611_tr_Female.mp4"
+        }
+    ]
+}
